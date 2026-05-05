@@ -9,10 +9,10 @@
 
 | Nome | Matrícula |
 |---|---|
-| Caio Rodolfo Rodrigues Maciel | — |
-| Iago Albuquerque Rodrigues | — |
-| Josias dos Santos Oliveira | — |
-| Logan Gabriel Soares Castro | — |
+| Caio Rodolfo Rodrigues Maciel | — 25000339|
+| Iago Albuquerque Rodrigues | — 25000367|
+| Josias dos Santos Oliveira | — 26001238|
+| Logan Gabriel Soares Castro | — 25000490|
 
 **Professor:** Francisco de Assis Souza de Oliveira
 
